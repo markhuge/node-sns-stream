@@ -10,7 +10,7 @@ module.exports = aws => {
 				if (err) {
 					return reject(err);
 				}
-				resolve(response);
+				resolve(null, response);
 			});
 		}
 

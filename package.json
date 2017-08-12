@@ -7,7 +7,7 @@
   },
   "name": "sns-stream",
   "description": "Writable objectMode stream that accepts SNS payloads as input.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "dependencies": {
     "aws-sdk": "^2.97.0"
