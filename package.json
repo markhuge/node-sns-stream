@@ -1,0 +1,29 @@
+{
+  "peerDependencies": {
+    "aws-sdk": "^2.96.0"
+  },
+  "devDependencies": {
+    "aws-sdk": "^2.97.0"
+  },
+  "name": "sns-stream",
+  "description": "Writable objectMode stream that accepts SNS payloads as input.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.97.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markhuge/node-sns-stream.git"
+  },
+  "keywords": [
+    "sns",
+    "stream"
+  ],
+  "author": "Mark Wilkerson <mark@markwilkerson.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markhuge/node-sns-stream/issues"
+  },
+  "homepage": "https://github.com/markhuge/node-sns-stream#readme"
+}
